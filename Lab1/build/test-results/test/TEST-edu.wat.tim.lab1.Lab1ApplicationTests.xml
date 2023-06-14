@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="edu.wat.tim.lab1.Lab1ApplicationTests" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-06-14T13:07:48" hostname="codespaces-defa08" time="0.189">
+  <properties/>
+  <testcase name="contextLoads()" classname="edu.wat.tim.lab1.Lab1ApplicationTests" time="0.189"/>
+  <system-out><![CDATA[2023-06-14T13:07:48.529Z  INFO 87865 --- [    Test worker] t.c.s.AnnotationConfigContextLoaderUtils : Could not detect default configuration classes for test class [edu.wat.tim.lab1.Lab1ApplicationTests]: Lab1ApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+2023-06-14T13:07:48.531Z  INFO 87865 --- [    Test worker] .b.t.c.SpringBootTestContextBootstrapper : Found @SpringBootConfiguration edu.wat.tim.lab1.Lab1Application for test class edu.wat.tim.lab1.Lab1ApplicationTests
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
